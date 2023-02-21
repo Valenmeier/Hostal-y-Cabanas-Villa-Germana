@@ -1,0 +1,15 @@
+:root {
+  --movilTextSize: 4vw;
+  --movilTitleSize: 4vw;
+  --titleFontFamily:'Times New Roman', Times, serif;
+  --textFontFamily:sans-serif;
+}
+
+.temaClaro {
+  --primaryColor: rgb(255, 251, 251);
+  --textColor: rgb(0, 0, 0);
+}
+.temaOscuro {
+  --primaryColor: rgb(0, 0, 0);
+  --textColor: rgb(255, 255, 255);
+}
